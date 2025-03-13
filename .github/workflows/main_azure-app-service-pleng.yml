@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'azure-app-service-pleng'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A9BD819F7C2410F89B001F4B62058D9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AEB08BB1D54845EAA8DB2C73310446C1 }}
